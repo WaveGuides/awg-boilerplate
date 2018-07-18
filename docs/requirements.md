@@ -1,4 +1,4 @@
-See our [Requirements Guide](https://github.com/WaveGuides/guidelines/blob/master/Requirements_Guide.md) for more information about this format.
+See our [Requirements Guide](https://github.com/WaveGuides/awg-guidelines/blob/master/Requirements_Guide.md) for more information about this format.
 
 ## Functional Requirements
 
