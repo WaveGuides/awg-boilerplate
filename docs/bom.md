@@ -2,8 +2,8 @@
 
 This is the BOM for awg-template
 
-| Part # | Qty | Type | Manufacturer | Man. Part # | Distributer | Dist Part # | Description | Comments |
-|-------:|----:|:-----|:-------------|:------------|:------------|:------------|:------------|:---------|
+| Part # | Qty | Type | Manufacturer | Man. Part # | Description | Comments |
+|-------:|----:|:-----|:-------------|:------------|:------------|:---------|
 
 # Notes
 
